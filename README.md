@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Full-Stack Developer | AI Engineer | CS Student @ University of Arkansas
+## 🚀 Full-Stack Developer | AI Engineer | CS @ University of Arkansas
 
 Building production-ready systems with AI integration, scalable APIs, and modern full-stack architectures.
 
